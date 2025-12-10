@@ -53,5 +53,5 @@ It provides a RESTful API to manage products and can be used with any frontend, 
 1. Clone the repository:
 
 ```bash
-git clone https://github.com/yourusername/aspnet-crud-product.git
+git clone git@github.com:TimBIN23/flutter-crud-product.git
 cd aspnet-crud-product
